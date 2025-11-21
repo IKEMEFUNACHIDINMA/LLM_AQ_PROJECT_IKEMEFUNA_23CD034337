@@ -1,1 +1,1 @@
-https://your-surname-your-matno-ai-app.onrender.com
+RENDER = https://ikemefuna-23cd034337-ai-query-app.onrender.com
